@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/Jaskaal/MyFirstExample.svg?branch=master)](https://travis-ci.org/Jaskaal/MyFirstExample)
