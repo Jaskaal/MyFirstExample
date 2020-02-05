@@ -1,1 +1,2 @@
-g++ -o main main.cpp
+all:
+	g++ -Wfatal-errors main.cpp
